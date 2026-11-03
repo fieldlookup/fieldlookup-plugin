@@ -1,0 +1,24 @@
+{
+  "name": "fieldlookup",
+  "displayName": "fieldlookup",
+  "version": "0.1.1",
+  "description": "Reddit search and research for briefings: posts, comments, dates and links",
+  "author": {
+    "name": "fieldlookup",
+    "email": "support@fieldlookup.com"
+  },
+  "homepage": "https://fieldlookup.com/grok/reddit",
+  "repository": "https://github.com/fieldlookup/fieldlookup-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "reddit",
+    "research",
+    "search",
+    "subreddit",
+    "briefing",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "mcp.json"
+}
